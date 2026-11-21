@@ -4,9 +4,6 @@
 
 This project provides a data-driven exploration of graduate school discussions within the Philippine Reddit community (specifically `r/gradschoolph`). By leveraging natural language processing, Principal Component Analysis (PCA), and regression modeling, this study maps common themes, evaluates user engagement, and analyzes reply dynamics across top Philippine institutions ("Big Four").
 
-### 💡 Inspiration
-This project was inspired by **Simon Ezekiel Mariquit's** analytical work using the Reddit API (*"What do UPLB students ask on Reddit, and which questions does nobody answer? I pulled two years of r/peyups, r/uplb and r/upelbi to find out."*). Building upon that premise, this repository extends the lens toward postgraduate studies and university-level interaction dynamics in the Philippines.
-
 ---
 
 ## 📁 Repository Structure
@@ -77,6 +74,3 @@ pip install pandas numpy matplotlib seaborn scikit-learn jupyter
 
 ---
 
-## 📜 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
