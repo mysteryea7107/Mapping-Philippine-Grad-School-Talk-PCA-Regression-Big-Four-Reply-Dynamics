@@ -1,9 +1,5 @@
 # Mapping Philippine Grad School Talk: PCA, Regression & Big Four Reply Dynamics
 
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 ## 📌 Overview
 
 This project provides a data-driven exploration of graduate school discussions within the Philippine Reddit community (specifically `r/gradschoolph`). By leveraging natural language processing, Principal Component Analysis (PCA), and regression modeling, this study maps common themes, evaluates user engagement, and analyzes reply dynamics across top Philippine institutions ("Big Four").
